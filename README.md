@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0mm4nd3rt" alt="c0mm4nd3rt" /></a> </p>
 
-- 🌱 I’m currently learning **C#, JAVA Script, ANgular JS**
+- 🌱 I’m currently learning **C#, JAVA Script, Angular JS**
 
-- 💬 Ask me about **Cyber Security, Networking, Coding abd also Games😜**
+- 💬 Ask me about **Cyber Security, Networking, Coding and also Games😜**
 
 - 📫 How to reach me **cybercommando1102@gmail.com**
 
