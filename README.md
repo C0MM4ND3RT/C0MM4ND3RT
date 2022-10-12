@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0mm4nd3rt" alt="c0mm4nd3rt" /></a> </p>
 
-- 🌱 I’m currently learning **C#, JAVA Script, Angular JS**
+- 🌱 I’m currently learning **C#, JAVA Script, Python Scripting**
 
 - 💬 Ask me about **Cyber Security, Networking, Coding and also Games😜**
 
